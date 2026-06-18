@@ -2,9 +2,9 @@
 ## Daniel Maldaner 👋
 
 Me chamo Daniel Henrique Maldaner, tenho 18 anos e moro em chapecó. Estou cursando Ciência da Computação na UFFS.
-
+Algorítmo de uma biblioteca online
+Eu fiz um arquivo que contém um algorítmo para o funcionamento de uma biblioteca online capaz de cadastrar,emprestar e devolver livros, listar e ordenar livros, além de consultar o livro que você procura
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -57,5 +57,3 @@ Me chamo Daniel Henrique Maldaner, tenho 18 anos e moro em chapecó. Estou cursa
 
 </p>
 
-Algorítmo de uma biblioteca online
-Esse arquivo contém um algorítmo para o funcionamento de uma biblioteca online capaz de cadastrar,emprestar e devolver livros, listar e ordenar livros, além de consultar o livro que você procura
