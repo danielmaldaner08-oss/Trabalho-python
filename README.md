@@ -21,6 +21,6 @@ Me chamo Daniel Henrique Maldaner, tenho 18 anos e moro em chapecó. Estou cursa
 ### 📊 Trabalho
 Algorítmo de uma biblioteca online
 <br>
-Eu fiz um arquivo que contém um algorítmo para o funcionamento de uma biblioteca online capaz de cadastrar,emprestar e devolver livros, listar e ordenar livros, além de consultar o livro que você procura
+Eu fiz um arquivo que contém um algorítmo para o funcionamento de uma biblioteca online capaz de cadastrar,emprestar e devolver livros, além de listar, ordenar livros e consultar o livro que você procura
 
 
